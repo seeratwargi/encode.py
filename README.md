@@ -20,7 +20,7 @@ python encode.py
 
 <br><a href="#"><img src="https://i.ibb.co/sjk6qz3/enc.png"></a><br>
 
-***Copyright (c) 2021 Tahmid Rayat Under [MIT LICENSE](https://github.com/htr-tech/PyObfuscate/blob/master/LICENSE#L1)***
+***Copyright (c) 2021 SEERAT BRAND Under [MIT LICENSE](https://github.com/htr-tech/PyObfuscate/blob/master/LICENSE#L1)***
 
 ### *📡 Get in Touch :*
 [![Github](https://img.shields.io/badge/Github-525252?style=for-the-badge&logo=github)](https://github.com/htr-tech)
